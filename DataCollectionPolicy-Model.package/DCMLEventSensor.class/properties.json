@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DCMLSensors",
+	"category" : "DataCollectionPolicy-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCMLEventSensor",
+	"type" : "normal"
+}

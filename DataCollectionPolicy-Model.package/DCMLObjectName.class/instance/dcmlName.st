@@ -1,0 +1,3 @@
+accessing
+dcmlName
+	^ dcmlName

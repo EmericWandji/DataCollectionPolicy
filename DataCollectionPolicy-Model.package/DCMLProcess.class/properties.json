@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DCMLOperation",
+	"category" : "DataCollectionPolicy-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DCMLProcess",
+	"type" : "normal"
+}
